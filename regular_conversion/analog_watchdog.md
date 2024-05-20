@@ -1,6 +1,6 @@
 # Analog watchdog
 
-![alt text](img/analog_watchdog.svg)
+![alt text](./img/analog_watchdog.svg)
 
 ## Tresholds
 

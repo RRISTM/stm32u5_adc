@@ -1,5 +1,6 @@
 # ADC features
 
+Features of STM32U5 ADCs
 
 * resolution 14/12bit
 * HW offset calibration
@@ -13,5 +14,4 @@
 * Offset compensation/ gain compensation (ADC1/2)
 * Analong watchdogs
 * Wake up form STOP mode (ADC4)
-  
 * Temperature sensor & Voltage reference calibration values
