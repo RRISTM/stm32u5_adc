@@ -1,0 +1,180 @@
+{
+  "title": "STM32U5 ADC",
+  "githubLoc": "https://raw.githubusercontent.com/RRISTM/stm32u5_adc/master",
+  "options": {
+    "allowMenu": true,
+    "allowTagSelect": false
+  },
+  "filesToLoadArr": [
+    {
+      "path": "/adc4",
+      "file": "adc4_features.md"
+    },
+    {
+      "path": "/theory",
+      "file": "adc_features.md"
+    },
+    {
+      "path": "/theory",
+      "file": "adc_features.md"
+    },
+    {
+      "path": "/theory",
+      "file": "conversion_management_data_mode.md"
+    },
+    {
+      "path": "/theory",
+      "file": "conversion_modes.md"
+    },
+    {
+      "path": "/theory",
+      "file": "end_of_conversion.md"
+    },
+    {
+      "path": "/theory",
+      "file": "gain_compensation.md"
+    },
+    {
+      "path": "/theory",
+      "file": "inputs.md"
+    },
+    {
+      "path": "/theory",
+      "file": "left_bite_shft.md"
+    },
+    {
+      "path": "/theory",
+      "file": "low_power_auto_wait.md"
+    },
+    {
+      "path": "/theory",
+      "file": "overrun.md"
+    },
+    {
+      "path": "/theory",
+      "file": "resolution.md"
+    },
+    {
+      "path": "/theory",
+      "file": "tirgger_frequency.md"
+    },
+    {
+      "path": "/regular_conversion",
+      "file": "analog_watchdog.md"
+    },
+    {
+      "path": "/regular_conversion",
+      "file": "injected_conversion.md"
+    },
+    {
+      "path": "/regular_conversion",
+      "file": "oversampling.md"
+    },
+    {
+      "path": "/regular_conversion",
+      "file": "regular_conversion.md"
+    }
+
+  ],
+  "menuStructure": [
+    {
+      "name": "Features",
+      "type": "File",
+      "file": "adc_features.md"
+    },
+    {
+      "name": "ADC - Basics",
+      "type": "Folder",
+      "children": [
+        {
+          "name": "inputs",
+          "type": "File",
+          "file": "inputs.md"
+        },
+        {
+          "name": "resolution",
+          "type": "File",
+          "file": "resolution.md"
+        },
+        {
+          "name": "gain compensation",
+          "type": "File",
+          "file": "gain_compensation.md"
+        },
+        {
+          "name": "conversion modes",
+          "type": "File",
+          "file": "conversion_modes.md"
+        },
+        {
+          "name": "trigger freqeuncy",
+          "type": "File",
+          "file": "tirgger_frequency.md"
+        },
+        {
+          "name": "Eend of conversion",
+          "type": "File",
+          "file": "end_of_conversion.md"
+        },
+        {
+          "name": "overrun",
+          "type": "File",
+          "file": "overrun.md"
+        },
+        {
+          "name": "bite shift",
+          "type": "File",
+          "file": "left_bite_shft.md"
+        },
+        {
+          "name": "data mode",
+          "type": "File",
+          "file": "conversion_management_data_mode.md"
+        },
+        {
+          "name": "low power wait",
+          "type": "File",
+          "file": "low_power_auto_wait.md"
+        }
+      ]
+    },
+    {
+      "name": "ADC - Conversions",
+      "type": "Folder",
+      "children": [
+        {
+          "name": "Regular conversion",
+          "type": "File",
+          "file": "regular_conversion.md"
+        },
+        {
+          "name": "Analog watchdog",
+          "type": "File",
+          "file": "analog_watchdog.md"
+        },
+        {
+          "name": "Oversampling",
+          "type": "File",
+          "file": "oversampling.md"
+        },
+        {
+          "name": "ADC4",
+          "type": "File",
+          "file": "injected_conversion.md"
+        }
+      ]
+    },
+    {
+      "name": "ADC4",
+      "type": "Folder",
+      "children": [
+        {
+          "name": "ADC4",
+          "type": "File",
+          "file": "markdown.md"
+        }
+      ]
+    }
+
+  ]
+}
