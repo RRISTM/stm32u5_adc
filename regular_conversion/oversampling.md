@@ -6,6 +6,8 @@ and 1-256 for ADC4
 The ovesample will collect 1-1024(256) sample and add them together. Then a rigth shift is managed. This can increase a resolution of adc. 
 But it will increase a time needed for one final sample. 
 
+![oversampling](./img/oversampling.svg)
+
 ## Regulvar overampling mode
 
 Set ho oversampling mode is handled when paused by injected conversion. 
@@ -13,6 +15,7 @@ Set ho oversampling mode is handled when paused by injected conversion.
 ### Continuous mode
   Ovesampling result is maintaind and continue after injected conversion
 
-### resumed mode
+### Resumed mode
 
 The oversampling starts from beginning when interrupted by injected conversion
+

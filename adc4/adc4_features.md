@@ -12,6 +12,8 @@ Up to 12bit
 The ADC seqeunce can be set Forward/Backward
 Over all the channels if wanted
 
+![not configurable seqeunce](img/not_configurable_seqeunce.svg)
+
 
 ### Fully configurable 
 
@@ -19,9 +21,13 @@ Seqeunce can bse set randomly.
 8 item seqeunce. 
 Only channels 1-16.
 
-## Low powr Auto off
+![configurable](img/configurable_seqeunce.svg)
+
+## Low power Auto off
 
 The ADC is disabled when not converting or sample, This will reduce power consumption. 
+
+![auto power off](img/auto_power_off.svg)
 
 ## Shared sampling time
 

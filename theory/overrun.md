@@ -14,8 +14,11 @@ The for this we can set two behaviours
 The old data a re kept in ADC registers.
 The new data are lost
 
+![discontinous preserve](./img/ovverrun_preserve.svg)
+
 ## Overrrun data overwritten
 
 The old data are lost 
 New data are preserved
 
+![discontinous overwrite](./img/overrun_overwrite.svg)

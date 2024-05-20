@@ -4,6 +4,8 @@ The ADC1/2 have up to also seqeuncer and up 4 injected itens can be configured.
 
 Compared to regular channels the injected channels have own data registers but they dont have DMA cappability.
 
+![injected conversion](<img/injected conversion.svg>)
+
  ## Configuration
 
  ### Left but shift
