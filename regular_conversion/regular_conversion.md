@@ -1,5 +1,7 @@
 # Regular conversion
 
+
+
 Is defined by number of conversion in the regular conversion sequence
 
 Seqeunce can be up to 16items. 

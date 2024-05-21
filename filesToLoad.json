@@ -97,7 +97,26 @@
     {
       "path": "/example/scan_dma",
       "file": "scan_dma_ide.md"
+    },
+    {
+      "path": "/example/list_dma",
+      "file": "list_dma_mx.md"
+    },
+    {
+      "path": "/example/list_dma",
+      "file": "list_dma_ide.md"
+    },
+    {
+      "path": "/example/list_dma",
+      "file": "2d_list_mx.md"
+    },
+    {
+      "path": "/example/list_dma",
+      "file": "2d_list_ide.md"
     }
+
+    
+    
   ],
   "menuStructure": [
     {
@@ -231,8 +250,25 @@
           "name": "ADC DMA IDE",
           "type": "File",
           "file": "scan_dma_ide.md"
+        },
+        {
+          "name": "DMA list MX",
+          "type": "File",
+          "file": "list_dma_mx.md"
+        },        {
+          "name": "DMA list IDE",
+          "type": "File",
+          "file": "list_dma_ide.md"
+        },
+        {
+          "name": "DMA 2d list MX",
+          "type": "File",
+          "file": "2d_list_mx.md"
+        },        {
+          "name": "DMA 2d list IDE",
+          "type": "File",
+          "file": "2d_list_ide.md"
         }
-
       ]
     }
 
