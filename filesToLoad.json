@@ -73,8 +73,31 @@
     {
       "path": "/regular_conversion",
       "file": "regular_conversion.md"
+    },
+    {
+      "path": "/example/simple_example",
+      "file": "simple_adc_example_mx.md"
+    },
+    {
+      "path": "/example/simple_example",
+      "file": "simple_adc_example_ide.md"
+    },
+    {
+      "path": "/example/scan_example",
+      "file": "scan_example_mx.md"
+    },
+    {
+      "path": "/example/scan_example",
+      "file": "scan_example_ide.md"
+    },
+    {
+      "path": "/example/scan_dma",
+      "file": "scan_dma_mx.md"
+    },
+    {
+      "path": "/example/scan_dma",
+      "file": "scan_dma_ide.md"
     }
-
   ],
   "menuStructure": [
     {
@@ -173,6 +196,43 @@
           "type": "File",
           "file": "adc4_features.md"
         }
+      ]
+    },
+    {
+      "name": "Examples",
+      "type": "Folder",
+      "children": [
+        {
+          "name": "simple ADC MX",
+          "type": "File",
+          "file": "simple_adc_example_mx.md"
+        },
+        {
+          "name": "simple ADC IDE",
+          "type": "File",
+          "file": "simple_adc_example_ide.md"
+        },
+        {
+          "name": "scan ADC MX",
+          "type": "File",
+          "file": "scan_example_mx.md"
+        },
+        {
+          "name": "scan ADC IDE",
+          "type": "File",
+          "file": "scan_example_ide.md"
+        },
+        {
+          "name": "ADC DMA MX",
+          "type": "File",
+          "file": "scan_dma_mx.md"
+        },
+        {
+          "name": "ADC DMA IDE",
+          "type": "File",
+          "file": "scan_dma_ide.md"
+        }
+
       ]
     }
 
