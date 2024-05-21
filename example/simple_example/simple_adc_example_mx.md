@@ -11,4 +11,6 @@ In Configuration
 6. Set `Channel` to **Cahnnel temperature sensor**
 7. Set `Sampling Time` to **814 cycles**
 
+![alt text](./img/config.svg)
+
 8. Generate code

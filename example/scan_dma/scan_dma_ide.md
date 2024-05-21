@@ -22,6 +22,7 @@ uint16_t adc_buffer[6];
 ```
 
 3. Remove poll reading from while loop
+   
 ```c
   /* USER CODE BEGIN WHILE */
   while (1)
