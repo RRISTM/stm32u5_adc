@@ -107,11 +107,11 @@
       "file": "list_dma_ide.md"
     },
     {
-      "path": "/example/list_dma",
+      "path": "/example/2d_list",
       "file": "2d_list_mx.md"
     },
     {
-      "path": "/example/list_dma",
+      "path": "/example/2d_list",
       "file": "2d_list_ide.md"
     }
 
